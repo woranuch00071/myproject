@@ -15,7 +15,8 @@ public class MyProject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello This is version 1");
+        System.out.println("Hello This is version 2");
+        System.out.println("Hello This is version 3");
     }
     
 }
